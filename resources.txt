@@ -1,0 +1,3 @@
+Linear regression: https://online.stat.psu.edu/stat501/lesson/1
+Quant questions: https://www.puzzledquant.com/
+Neetcode 150: https://neetcode.io/practice
